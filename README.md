@@ -1,6 +1,6 @@
 # Chatter 💬
 
-😌 Effortless chatting ! 
+#### 😌 Effortless chatting ! 
 
 
 ## 🚀 Launch
@@ -11,12 +11,12 @@
 ## 💻 Screens
 
 
-### Login
+### :one: Login
 
 ![LoginScreen](https://github.com/tridib2003/ChatApp-Chatter/blob/main/Screens/Login.PNG?raw=true)
 
 
-### Chatbox
+### :two: Chatbox
 
 ![HomeScreen](https://github.com/tridib2003/ChatApp-Chatter/blob/main/Screens/Home.PNG?raw=true)
 
